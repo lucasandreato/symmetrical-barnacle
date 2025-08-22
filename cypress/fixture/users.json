@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "nome": "Usuario Teste",
+    "email": "teste@qa.com.br", 
+    "password": "teste123",
+    "administrador": "true"
+  },
+  "invalidUser": {
+    "nome": "",
+    "email": "email-invalido",
+    "password": "123",
+    "administrador": "false"
+  }
+}
