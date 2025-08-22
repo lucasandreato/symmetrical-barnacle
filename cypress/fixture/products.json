@@ -1,0 +1,14 @@
+{
+  "validProduct": {
+    "nome": "Produto Teste Cypress",
+    "preco": 100,
+    "descricao": "Produto criado via automação Cypress",
+    "quantidade": 50
+  },
+  "invalidProduct": {
+    "nome": "",
+    "preco": -10,
+    "descricao": "",
+    "quantidade": -5
+  }
+}
